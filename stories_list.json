@@ -1,0 +1,14 @@
+{
+  "stories": [
+    {
+      "name": "Water World",
+      "url": "https://raw.githubusercontent.com/your-username/your-repo/main/water_world.json",
+      "version": 1
+    },
+    {
+      "name": "Fire Kingdom",
+      "url": "https://raw.githubusercontent.com/your-username/your-repo/main/fire_kingdom.json",
+      "version": 1
+    }
+  ]
+}
