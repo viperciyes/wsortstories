@@ -1,13 +1,15 @@
 {
   "stories": [
     {
-      "name": "Water World",
+      "name": "The Magical Waterfall",
       "url": "https://raw.githubusercontent.com/your-username/your-repo/main/water_world.json",
+      "image": "",
       "version": 1
     },
     {
       "name": "Fire Kingdom",
       "url": "https://raw.githubusercontent.com/your-username/your-repo/main/fire_kingdom.json",
+      "image": "",
       "version": 1
     }
   ]
