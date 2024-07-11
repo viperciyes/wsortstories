@@ -3,13 +3,15 @@
     {
       "name": "The Magical Waterfall",
       "url": "https://raw.githubusercontent.com/your-username/your-repo/main/water_world.json",
-      "image": "",
+      "image": "https://github.com/viperciyes/wsortstories/blob/42a8e2f7f2674f0eda8c65492ff5c3a7228907c9/images/waterfall-min.png",
+      "intro":"",
       "version": 1
     },
     {
       "name": "Fire Kingdom",
       "url": "https://raw.githubusercontent.com/your-username/your-repo/main/fire_kingdom.json",
       "image": "",
+            "intro":"",
       "version": 1
     }
   ]
