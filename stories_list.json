@@ -1,6 +1,7 @@
 {
   "stories": [
     {
+      "id": 1,
       "name": "The Magical Waterfall",
       "url": "https://github.com/viperciyes/wsortstories/blob/4d2986c138df2b6f5da14632be09dd2f687bc9d3/waterfall.json",
       "image": "https://github.com/viperciyes/wsortstories/blob/42a8e2f7f2674f0eda8c65492ff5c3a7228907c9/images/waterfall-min.png",
